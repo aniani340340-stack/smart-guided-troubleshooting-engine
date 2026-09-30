@@ -29,7 +29,7 @@ EXPOSE 8000
 
 # Docker healthcheck querying /health endpoint
 HEALTHCHECK --interval=20s --timeout=5s --start-period=5s --retries=3 \
-  CMD curl -f http://localhost:8000/health || exit 1
+  CMD curl -f http://localhost:${PORT:-8000}/health || exit 1
 
 # Start FastAPI service
-CMD ["uvicorn", "theme02_troubleshooting_engine.api.app:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "exec uvicorn theme02_troubleshooting_engine.api.app:app --host 0.0.0.0 --port ${PORT:-8000}"]
