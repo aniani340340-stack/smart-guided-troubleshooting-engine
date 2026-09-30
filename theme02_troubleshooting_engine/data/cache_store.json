@@ -1,0 +1,2480 @@
+{
+  "count": 16,
+  "entries": [
+    {
+      "canonical_key": "screen flicker glitch",
+      "queries": [
+        "urgent: camera video flicker is not working at all, need help asap.",
+        "urgent: screen flicker glitch is not working at all, need help asap.",
+        "having trouble with email connection sync after recent system usage.",
+        "screen flicker glitch settings troubleshooting",
+        "my samsung galaxy z flip 6 screen flickers and goes blank whenever i open it, so i can't see anything or access the settings, which stops me from using the phone.",
+        "galaxy camera video flicker not wrking",
+        "galaxy device report regarding screen flicker glitch malfunction.",
+        "samsung galaxy email connection sync issue fix",
+        "having trouble with screen flicker glitch after recent system usage.",
+        "samsung galaxy screen flicker glitch issue fix",
+        "email connection sync settings troubleshooting",
+        "why is my email connection sync failing again? this is so frustrating!",
+        "camera video flicker settings troubleshooting",
+        "technical inquiry: user device experiencing screen flicker glitch anomaly.",
+        "samsng phne screen flicker glitch glich",
+        "galaxy device report regarding email connection sync malfunction.",
+        "technical inquiry: user device experiencing camera video flicker anomaly.",
+        "hey, my email connection sync seems completely messed up on my samsung phone.",
+        "urgent: email connection sync is not working at all, need help asap.",
+        "why is my camera video flicker failing again? this is so frustrating!",
+        "1. my samsung a115g tablet screen flashes and then goes completely blank whenever i tap to open an email in gmail, and after it works for a short time it goes blank again.",
+        "galaxy device report regarding camera video flicker malfunction.",
+        "why is my screen flicker glitch failing again? this is so frustrating!",
+        "having trouble with camera video flicker after recent system usage.",
+        "samsng phne email connection sync glich",
+        "samsung galaxy camera video flicker issue fix",
+        "galaxy email connection sync not wrking",
+        "galaxy scren flicker glitch not wrking",
+        "samsng phne camera video flicker glich",
+        "my samsung s***** ultra screen flashes extremely quickly (in milliseconds) whenever i plug in a charger, making the display unusable for a short period.",
+        "technical inquiry: user device experiencing email connection sync anomaly.",
+        "hey, my screen flicker glitch seems completely messed up on my samsung phone.",
+        "hey, my camera video flicker seems completely messed up on my samsung phone."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Blank black display Troubleshooting",
+        "title": "Blank black display",
+        "actions": [
+          {
+            "actionName": "Troubleshooting Steps For Device Not Turning On",
+            "description": "It will help you configure troubleshooting steps",
+            "stepGroups": [
+              {
+                "steps": [
+                  "I understand you're having trouble with your device not turning on.",
+                  "Let's go through some troubleshooting steps together to see if we can resolve this."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Charge The Device",
+            "description": "It will restore optimal battery charge level",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Now, please connect your phone or tablet to its appropriate charger and let it charge for at least 1 hour.",
+                  "It's important to note that the battery charging indicator might take up to 10 minutes to appear on the display."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/e9e9f104f0",
+                  "key": "Show charging information",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/2e04af3287",
+                  "description": "Opens the charging information on Always On Display settings page in device Settings on the device.",
+                  "message": "Check Battery Performance",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Attempt To Power On",
+            "description": "It will help you configure attempt to",
+            "stepGroups": [
+              {
+                "steps": [
+                  "After charging, please disconnect the phone or tablet from the charger.",
+                  "Then, try to turn it on by pressing and holding the Power button (or Side button) for 15 to 20 seconds.",
+                  "You should see the Samsung Galaxy logo appear if it powers on successfully.",
+                  "If the screen turns on, it indicates that your device needed a charge.",
+                  "Please turn off your device and reconnect it to the appropriate charger until it is fully charged."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/9f395ed609",
+                  "key": "Double tap to turn on screen",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/b848c66dac",
+                  "description": "Enables double tap to wake screen via device Settings on the device.",
+                  "message": "Enable Double tap to turn on screen",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Check For Physical Damage And Liquid Exposure",
+            "description": "It will inspect device hardware for damage",
+            "stepGroups": [
+              {
+                "steps": [
+                  "First, please carefully inspect your phone or tablet, charger, and USB cable for any physical damage or signs of liquid exposure.",
+                  "Please remove any cases or accessories that might be covering the charging port or buttons.",
+                  "Examine the USB connections for any corrosion or bent pins.",
+                  "The USB connection should feel secure with minimal movement.",
+                  "Next, let's check the Liquid Damage Indicator (LDI)."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          },
+          {
+            "actionName": "Force A Restart",
+            "description": "It will restart your mobile device safely",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If there's no physical or liquid damage, let's try to force a restart on your device.",
+                  "There are two methods for this:",
+                  "Press and hold both the Power button (or Side button) and the Volume down button simultaneously for at least 20 seconds.",
+                  "If your device has a removable battery, please remove the battery for 60 seconds, and then reinsert it."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "email connection sync",
+      "queries": [
+        "email server not responding on samsung phone or tablet"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Email server not Troubleshooting",
+        "title": "Email server not",
+        "actions": [
+          {
+            "actionName": "Check Email Access On A Pc",
+            "description": "It will help you configure check email",
+            "stepGroups": [
+              {
+                "steps": [
+                  "First, try accessing your email on a personal computer.",
+                  "This helps determine if the problem is with your phone's connection or your email account itself.",
+                  "If you can sign in and access your email on a PC, your phone might not be connected to Wi-Fi or mobile data."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Verify Your Phone's Internet Connection",
+            "description": "It will verify active internet network connectivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Ensure your phone is connected to a stable Wi-Fi or mobile data network.",
+                  "Swipe down from the top of your phone's screen to open the Quick settings panel.",
+                  "Touch and hold the Wi-Fi icon to check your connection status.",
+                  "Alternatively, go to Settings, tap Connections, and then tap Wi-Fi.",
+                  "To confirm your internet connection is working, try loading a webpage or performing a quick search."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/21ebbddeb8",
+                  "key": "Switch to mobile data",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/a9b84a4800",
+                  "description": "Opens the switch to mobile data on poor Wi-Fi settings page in device Settings on the device.",
+                  "message": "View WiFi Settings",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Review Your Email Account Settings",
+            "description": "It will help you configure review your",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Sometimes, changes made by your email provider on their server can cause connection problems.",
+                  "In such cases, you may need to remove and re-add your email account to your phone to apply the new configuration.",
+                  "You can find instructions on how to remove your account and add it again at the provided links.",
+                  "Before proceeding, make sure you have your email account's username and password readily available.",
+                  "Remember that passwords are case-sensitive."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8aad9a3bfd",
+                  "key": "Samsung account security",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c8c7a1be2d",
+                  "description": "Opens the Samsung account security settings page in device Settings on the device.",
+                  "message": "View Samsung account security",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Clear The Email App's Cache And Data",
+            "description": "It will clear cached application temporary data",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Clearing the cache and data for your email app can resolve temporary glitches.",
+                  "To clear the app's cache:",
+                  "Navigate to Settings.",
+                  "Tap Apps.",
+                  "Select your email app."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/b1753e5132",
+                  "key": "Hide app icon badges",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/5dfe90a088",
+                  "description": "Opens the hide app icon badges in Do Not Disturb settings page in device Settings on the device.",
+                  "message": "View Hide app icon badges",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Contact Your Email Service Provider",
+            "description": "It will connect with authorized service technicians",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If you have followed all the above steps and are still experiencing difficulties with your email connection, it is recommended to contact your email service provider directly for further assistance."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/4b2924f3cc",
+                  "key": "Android personalization service",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/f7cfcef15e",
+                  "description": "Opens the Android personalization service settings page in device Settings on the device.",
+                  "message": "View Android personalization service",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Restart Your Phone In Safe Mode",
+            "description": "It will restart your mobile device safely",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Using Safe mode helps identify if a third-party app, including your email app, is causing conflicts with your phone's performance.",
+                  "Press and hold the Power button or Side button.",
+                  "If your phone doesn't have a dedicated Power button, swipe down from the top of the screen to open Quick settings, and then tap the Power icon.",
+                  "Touch and hold the Power off icon.",
+                  "Tap Safe mode when it appears on the screen."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "blank black display",
+      "queries": [
+        "blank or black display on a samsung phone or tablet",
+        "galaxy blank black disply not wrking",
+        "1. \"my galaxy s24 screen goes completely blank, just a dark screen with occasional scrolling and no visible content, so i can't see anything or use smart switch to transfer data.\"",
+        "samsung galaxy blank black display issue fix",
+        "urgent: blank black display is not working at all, need help asap.",
+        "galaxy multi window split view not wrking",
+        "why is my screen mirror smart view failing again? this is so frustrating!",
+        "my galaxy s24 ultra screen is completely black and won't turn on, even though the phone powers on, rings, and otherwise works; there is no physical damage.",
+        "galaxy device report regarding blank black display malfunction.",
+        "having trouble with blank black display after recent system usage.",
+        "hey, my blank black display seems completely messed up on my samsung phone.",
+        "urgent: screen mirror smart view is not working at all, need help asap.",
+        "galaxy device report regarding screen mirror smart view malfunction.",
+        "galaxy scren mirror smart view not wrking",
+        "having trouble with multi window split view after recent system usage.",
+        "samsung galaxy screen mirror smart view issue fix",
+        "multi window split view settings troubleshooting",
+        "why is my multi window split view failing again? this is so frustrating!",
+        "why is my blank black display failing again? this is so frustrating!",
+        "technical inquiry: user device experiencing multi window split view anomaly.",
+        "my galaxy flip 6 screen is half black\u2014one side of the display is completely dark while the other side works fine, so i can't access the device normally.",
+        "samsng phne screen mirror smart view glich",
+        "samsung galaxy multi window split view issue fix",
+        "hey, my screen mirror smart view seems completely messed up on my samsung phone.",
+        "my galaxy s22 screen turns completely blank or white and no text appears when i search for a stock price or use the smart tutor app, and it happens with other apps too.",
+        "my tablet's screen stays dark and only three app icons are lit while the rest are dark and won't open, so nothing loads on the screen and i can't use the device.",
+        "samsng phne multi window split view glich",
+        "having trouble with screen mirror smart view after recent system usage.",
+        "my galaxy s22 screen stays blank and doesn't show any activation message or anything else when i turn it on after the carrier deactivated the old phone.",
+        "technical inquiry: user device experiencing blank black display anomaly.",
+        "blank black display settings troubleshooting",
+        "access your galaxy phone's data if the screen does not respond",
+        "my samsung galaxy a15/a16 screen suddenly went completely black on its own after about a month of use. it doesn't display anything, even when i try to turn it on.",
+        "samsng phne blank black display glich",
+        "screen mirror smart view settings troubleshooting",
+        "galaxy device report regarding multi window split view malfunction.",
+        "technical inquiry: user device experiencing screen mirror smart view anomaly.",
+        "urgent: multi window split view is not working at all, need help asap.",
+        "hey, my multi window split view seems completely messed up on my samsung phone.",
+        "my galaxy a17 screen looks distorted right after i received the phone, and i need a diagnostic test.",
+        "my new samsung phone's main screen stays small and doesn't fill the whole display; i can't make it expand to full size and i've never seen this before."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Blank black display Troubleshooting",
+        "title": "Blank black display",
+        "actions": [
+          {
+            "actionName": "Troubleshooting Steps For Device Not Turning On",
+            "description": "It will help you configure troubleshooting steps",
+            "stepGroups": [
+              {
+                "steps": [
+                  "I understand you're having trouble with your device not turning on.",
+                  "Let's go through some troubleshooting steps together to see if we can resolve this."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Charge The Device",
+            "description": "It will restore optimal battery charge level",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Now, please connect your phone or tablet to its appropriate charger and let it charge for at least 1 hour.",
+                  "It's important to note that the battery charging indicator might take up to 10 minutes to appear on the display."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/e9e9f104f0",
+                  "key": "Show charging information",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/2e04af3287",
+                  "description": "Opens the charging information on Always On Display settings page in device Settings on the device.",
+                  "message": "Check Battery Performance",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Attempt To Power On",
+            "description": "It will help you configure attempt to",
+            "stepGroups": [
+              {
+                "steps": [
+                  "After charging, please disconnect the phone or tablet from the charger.",
+                  "Then, try to turn it on by pressing and holding the Power button (or Side button) for 15 to 20 seconds.",
+                  "You should see the Samsung Galaxy logo appear if it powers on successfully.",
+                  "If the screen turns on, it indicates that your device needed a charge.",
+                  "Please turn off your device and reconnect it to the appropriate charger until it is fully charged."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/9f395ed609",
+                  "key": "Double tap to turn on screen",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/b848c66dac",
+                  "description": "Enables double tap to wake screen via device Settings on the device.",
+                  "message": "Enable Double tap to turn on screen",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Check For Physical Damage And Liquid Exposure",
+            "description": "It will inspect device hardware for damage",
+            "stepGroups": [
+              {
+                "steps": [
+                  "First, please carefully inspect your phone or tablet, charger, and USB cable for any physical damage or signs of liquid exposure.",
+                  "Please remove any cases or accessories that might be covering the charging port or buttons.",
+                  "Examine the USB connections for any corrosion or bent pins.",
+                  "The USB connection should feel secure with minimal movement.",
+                  "Next, let's check the Liquid Damage Indicator (LDI)."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          },
+          {
+            "actionName": "Force A Restart",
+            "description": "It will restart your mobile device safely",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If there's no physical or liquid damage, let's try to force a restart on your device.",
+                  "There are two methods for this:",
+                  "Press and hold both the Power button (or Side button) and the Volume down button simultaneously for at least 20 seconds.",
+                  "If your device has a removable battery, please remove the battery for 60 seconds, and then reinsert it."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "smart switch data transfer",
+      "queries": [
+        "technical inquiry: user device experiencing some things check first anomaly.",
+        "samsng phne smart switch data transfer glich",
+        "having trouble with some things check first after recent system usage.",
+        "my galaxy tablet screen stays completely blank when i try to use smart switch to scan the qr code for transferring data from my galaxy s25 phone, so the transfer can't proceed.",
+        "why is my smart switch data transfer failing again? this is so frustrating!",
+        "some things check first settings troubleshooting",
+        "smart switch data transfer settings troubleshooting",
+        "technical inquiry: user device experiencing smart switch data transfer anomaly.",
+        "galaxy device report regarding smart switch data transfer malfunction.",
+        "having trouble with smart switch data transfer after recent system usage.",
+        "urgent: smart switch data transfer is not working at all, need help asap.",
+        "samsung galaxy some things check first issue fix",
+        "galaxy smart swtch data transfer not wrking",
+        "samsung galaxy smart switch data transfer issue fix",
+        "hey, my smart switch data transfer seems completely messed up on my samsung phone.",
+        "urgent: some things check first is not working at all, need help asap.",
+        "galaxy some things check first not wrking",
+        "hey, my some things check first seems completely messed up on my samsung phone.",
+        "galaxy device report regarding some things check first malfunction.",
+        "why is my some things check first failing again? this is so frustrating!",
+        "my galaxy z flip 7 screen went completely black, so i can't see or interact with the phone, and i'm unable to use smart switch or any other method to transfer my data.",
+        "samsng phne some things check first glich"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Transfer secure folder Troubleshooting",
+        "title": "Transfer secure folder",
+        "actions": [
+          {
+            "actionName": "Open Smart Switch App",
+            "description": "It will facilitate secure wireless data transfer",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Swipe up on the Home screen to access the Apps screen.",
+                  "Tap the Search field, then enter and select Smart Switch to open the app.",
+                  "Alternatively, you can navigate to the Samsung folder on the Apps screen and open Smart Switch from there.",
+                  "Next, on the new device, tap Receive on this phone.",
+                  "Then, on the old device, tap Send from this phone"
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/fc1d2ecd13",
+                  "key": "Show Apps screen button on Home screen",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/9b94194953",
+                  "description": "Opens the Apps screen button on Home screen settings page in device Settings on the device.",
+                  "message": "View Show Apps screen button on Home screen",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Select Transfer Method",
+            "description": "It will facilitate secure wireless data transfer",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Wireless transfer: On the new device, tap Galaxy/Android, then tap Wireless transfer.",
+                  "A QR code will be displayed.",
+                  "Next, on the old device, tap Wireless data transfer, then scan QR code displayed on new phone."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8621530c24",
+                  "key": "Share with Apple devices",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/487ab4520e",
+                  "description": "Opens the sharing with Apple devices settings page in device Settings on the device.",
+                  "message": "View Device Details",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Connection Method",
+            "description": "It will help you configure connection method",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Wireless connection: If you are using a wireless transfer, place the devices within 4 inches of each other.",
+                  "Wired connection: If you are using a wired transfer, plug one end of the USB cable into the charging port of the new phone and connect the other end to the charging port of the old phone."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "some things check first",
+      "queries": [
+        "some things to check first"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Some things to Troubleshooting",
+        "title": "Some things to",
+        "actions": [
+          {
+            "actionName": "Fingerprint Recognition Issues",
+            "description": "It will help you configure fingerprint recognition",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If fingerprint recognition is not working well with your screen protector, use the 'Improve accuracy' feature in the Fingerprints menu to enhance accuracy by scanning the same finger 10 times.",
+                  "Go to Settings > Security and privacy > Screen lock and biometrics,and then enteryourcurrentpin,passwordorpattern.Tap,selecttheregistered,andthentap:OptiononlyavailableondevicesrunningAndroid16withOneUI8.5orhigher.",
+                  "If using a Samsung NotePaper or Privacy Screen cover withyourGalaxyTab,in-screenthefingerprintreaderwon'toperatewiththecoverclosed.OpenthecovertouseinfingerprintreaderoruseyourPIN,patternorpasswordtounlockthedevice."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/2ae16321c5",
+                  "key": "Fingerprint unlock",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/49f61f06b4",
+                  "description": "Opens the fingerprint unlock settings page in device Settings on the device.",
+                  "message": "View Fingerprint unlock",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Samsung Kids Pin Reset Process",
+            "description": "It will help you configure samsung kids",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Entering apinisrequiredtoexitSamsungKids.InteventyouhaveenteredtheincorrectPINfivetimesinrow,you'llbeinstructedtosendablankemailto"
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/b9135febc1",
+                  "key": "Check Samsung Care+ subscription",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/724ea74e66",
+                  "description": "Opens the Samsung Care+ subscription details settings page in Samsung Warranty Care on the device.",
+                  "message": "View Check Samsung Care+ subscription",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Device Locked Due To Security Reasons",
+            "description": "It will help you configure device locked",
+            "stepGroups": [
+              {
+                "steps": [
+                  "To unlockyourdevicelockedduetosecurityreasons.restartyourdeviceandensureastablenetworkconnectionimmediatelyafterrebooting.Thisissueoccursasaseecurityenhancementmeasurewhenthedevicefailstoconnecttonetworkafterarestart.Ifdeviceremainsdisconnectedfromthenetworkfor30minutes.itwillstaylocked.Restartingandconnectingwithin30minuteswillunlockitnormally."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6890d84c14",
+                  "key": "Block USB connections while locked",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/2cad2e64ca",
+                  "description": "Opens the blocking USB connections while locked settings page in device Settings on the device.",
+                  "message": "View Security Settings",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Third-party Keyboard Issue On Lock Screen",
+            "description": "It will help you configure third-party keyboard",
+            "stepGroups": [
+              {
+                "steps": [
+                  "When somethird-partykeyboardsaresetasthedefaultinputmethod.theymaynotappearonlockscreen.BootingtoSafeModewillsetthesamsungkeyboardasdefault."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "multi window split view",
+      "queries": [
+        "use multi window and app pairs on your galaxy phone or tablet"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Use multi window Troubleshooting",
+        "title": "Use multi window",
+        "actions": [
+          {
+            "actionName": "Customize The Edge Panel",
+            "description": "It will help you configure customize the",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Your device's Edge panel lets you quickly access frequently used apps and content.",
+                  "You can customize the panel, download new panels, and remove apps from the panel if needed.",
+                  "To find the panel, swipe left on the gray Edge panel handle, which is located on the right side of your screen.",
+                  "You can use the Settings, All apps, and Edit icons at the bottom of the panel to adjust your desired options."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/63c3b0e2f0",
+                  "key": "Show as edge icon",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/a2fcc116bd",
+                  "description": "Enables edge icon display via device Settings on the device.",
+                  "message": "Enable Show as edge icon",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Use Multi Window",
+            "description": "It will enable multitasking split screen view",
+            "stepGroups": [
+              {
+                "steps": [
+                  "You can use Multi window on your Galaxy foldable and non-foldable devices.",
+                  "If you have a few favorite apps, you can even create app pairs!",
+                  "From the screen's right side, swipe left to open the Edge panel.",
+                  "Tap the All apps icon (the grid).",
+                  "From here, you'll be able to see all of your current apps.To open an app in split screen view on Z Fold devices, drag and drop it to the left, right, top, or bottom of the screen and then do the same for additional apps if desired."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/e2aefc4571",
+                  "key": "Show multi window menu with 1 window",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/bd9ead5bed",
+                  "description": "Enables multi window menu via device Settings on the device.",
+                  "message": "Enable Show multi window menu with 1 window",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Exit Multi Window",
+            "description": "It will enable multitasking split screen view",
+            "stepGroups": [
+              {
+                "steps": [
+                  "When you want to give Multi window a break and just use one app, you can close the split screen view.",
+                  "To do this, tap the Home icon.",
+                  "This will close them completely on the Home screen but leave them together in Recents."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/e2aefc4571",
+                  "key": "Show multi window menu with 1 window",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/bd9ead5bed",
+                  "description": "Enables multi window menu via device Settings on the device.",
+                  "message": "Enable Show multi window menu with 1 window",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Use Pop-up View",
+            "description": "It will help you configure use pop-up",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Multi window is really handy, but you can also use the pop-up view feature.",
+                  "This feature lets you make an app's window smaller, and you can even move it around.",
+                  "Pop-up view also has other settings to make it easier to use.",
+                  "Here is what the different controls do from left to right:",
+                  "Pin options menu to top: Pin the window's options to the top of the window."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/41d70c5e6f",
+                  "key": "Multi window for all apps",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/4d10b03627",
+                  "description": "Disables multi window for all apps via device Settings on the device.",
+                  "message": "Disable Multi window for all apps",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Create An App Pair",
+            "description": "It will help you configure create an",
+            "stepGroups": [
+              {
+                "steps": [
+                  "The Edge panel is only available on certain device models.",
+                  "Instead of separately opening apps you always use together, just create an App pair.",
+                  "That way, those two apps will open simultaneously in split screen view.",
+                  "If you're using the Z Fold2, Z Fold3, Z Fold4, Z Fold5, Z Fold6, Z Fold7, Z Fold8, Z Fold8 Ultra, or Z TriFold, you can create an App pair with three apps.",
+                  "Swipe left to open the Edge panel."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/fa0d27aee6",
+                  "key": "Allow apps to be pinned",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c16d019ad4",
+                  "description": "Enables app pinning via device Settings on the device.",
+                  "message": "Enable Allow apps to be pinned",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Useful App Pairing Ideas",
+            "description": "It will help you configure useful app",
+            "stepGroups": [
+              {
+                "steps": [
+                  "The Edge panel is only available on certain device models.",
+                  "Can't think of any useful app pairing combinations?",
+                  "Here are some combinations to get those creative juices flowing.",
+                  "Internet + Samsung Notes: Browse the internet and take notes at the same time.",
+                  "Play Music + Maps: Play your jam while going on an adventure."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/fa0d27aee6",
+                  "key": "Allow apps to be pinned",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c16d019ad4",
+                  "description": "Enables app pinning via device Settings on the device.",
+                  "message": "Enable Allow apps to be pinned",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Remove Shortcuts From Apps Edge",
+            "description": "It will help you configure remove shortcuts",
+            "stepGroups": [
+              {
+                "steps": [
+                  "The Edge panel is only available on certain device models.",
+                  "Maybe doing homework while playing a game isn't the best idea.",
+                  "Remove that shortcut to make room for a new one.",
+                  "From any screen, swipe left on the Edge panel, and then tap the Edit icon (the pencil).",
+                  "Tap the minus icon next to the shortcuts you want to remove."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/ec8f3bb4c8",
+                  "key": "Edge panels",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/a739f217be",
+                  "description": "Disables Edge panels via device Settings on the device.",
+                  "message": "Disable Edge panels",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Swipe Gestures For Multi Window",
+            "description": "It will enable multitasking split screen view",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Galaxy devices running One UI 6 or later have introduced a new feature that simplifies multitasking by allowing you to quickly move an open app into split screen or pop-up views using intuitive swipes.",
+                  "This streamlines your daily multitasking, making it easier to manage multiple apps simultaneously.",
+                  "Navigate to and open Settings, and then tap Advanced features.",
+                  "Tap Multi window, and then tap the switches next to Swipe for split screen or Swipe for pop-up view.Once you've turned on these features, a two finger swipe from the bottom of the screen will move the current app into split screen mode.",
+                  "You can also use one finger to swipe in from either top corner to put the current app into a pop-up."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/41d70c5e6f",
+                  "key": "Multi window for all apps",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/4d10b03627",
+                  "description": "Disables multi window for all apps via device Settings on the device.",
+                  "message": "Disable Multi window for all apps",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "screen mirror smart view",
+      "queries": [
+        "screen mirroring to your samsung tv"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Screen mirroring tv Troubleshooting",
+        "title": "Screen mirroring tv",
+        "actions": [
+          {
+            "actionName": "Screen Mirroring And Casting Explained",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "I can help you understand the difference between screen mirroring and casting, and how to use these features with your Samsung devices."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/de5461e5e5",
+                  "key": "Sync with Samsung Cloud",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/72bfd7de6a",
+                  "description": "Opens the sync with Samsung Cloud settings page in device Settings on the device.",
+                  "message": "View Sync Settings",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Screen Mirroring Vs. Casting",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "As technology advances, so does the vocabulary associated with it.",
+                  "Terms like \"screen mirroring\" or \"casting\" can be confusing.",
+                  "Both allow you to stream videos, photos, and other content from your phone to your Smart TV.",
+                  "Here's a more in-depth look:"
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "What Is Screen Mirroring?",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Screen mirroring lets you mirror your phone's screen to a bigger screen, like a Smart TV.",
+                  "Exactly what's showing on your phone will appear on the TV, whether it's an app, a photo, or a video.",
+                  "Any action you take on your phone, like navigating to a different app, will also be shown on the TV screen.",
+                  "On Galaxy devices, this feature is called Smart View.",
+                  "You can easily mirror your screen with Smart View by tapping the Smart View icon and following a few simple steps."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "What Is Casting?",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Casting is similar to screen mirroring in that you use your mobile device to control what's on your TV.",
+                  "However, instead of showing the same content on both devices, your mobile device acts like a remote control.",
+                  "Certain apps, like Netflix or YouTube, allow you to cast videos from your phone directly to a big screen.",
+                  "Even if you don't have a Smart TV, you can use third-party casting devices like Chromecast or an Amazon Fire Stick to stream videos.",
+                  "To screen cast to your Samsung TV, ensure both devices are on the same Wi-Fi network."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Mirror Your Tv With Smart View",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "You can project photos or videos from your phone or tablet onto your TV.",
+                  "You can also do the opposite and stream your TV to your phone or tablet's screen!",
+                  "Important notes:",
+                  "Make sure your TV is turned on and connected to the same Wi-Fi network as your phone.",
+                  "Some TVs may require you to switch inputs or turn on screen mirroring."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8b5ab2c1e2",
+                  "key": "Connected devices",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/34e7efcaf0",
+                  "description": "Opens the connected devices settings page in device Settings on the device.",
+                  "message": "View Device Details",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Mirror Your Screen",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "On your PC, select Start, then begin typing Bluetooth and other device settings and select it when it appears.",
+                  "Select Add device or Add Bluetooth or other device.",
+                  "Then, select Wireless display or dock.",
+                  "Select your TV once its name is displayed.",
+                  "If prompted, select Allow on your TV."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/30a8bdc595",
+                  "key": "Bluetooth",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/dccc16179a",
+                  "description": "Enables bluetooth settings via device Settings on the device.",
+                  "message": "Enable Bluetooth",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Disconnect The Devices",
+            "description": "It will help you configure disconnect the",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Once you are finished mirroring your screen, it's time to disconnect.",
+                  "On your PC, select Start, then begin typing Bluetooth and other device settings and select it when it appears.",
+                  "If you're using Windows 10, simply select the connected device.",
+                  "If you're using Windows 11, select More options (the three vertical dots) next to the device you want to disconnect.",
+                  "Select Remove device, and then select Yes."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8b5ab2c1e2",
+                  "key": "Connected devices",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/34e7efcaf0",
+                  "description": "Opens the connected devices settings page in device Settings on the device.",
+                  "message": "View Device Details",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Access Smart View With Smartthings",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "You can mirror your device's display to a TV using the SmartThings app as well.",
+                  "First, make sure the TV is turned on and connected to your SmartThings account.",
+                  "Using your phone or tablet, open the SmartThings app, and select the TV you would like to mirror to.",
+                  "In the TV's settings page, tap More options (the three vertical dots), and then tap Mirror screen (Smart View).",
+                  "Tap Start now."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/61c686276f",
+                  "key": "Sound Mode",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/cda42315d6",
+                  "description": "Updates the TV sound mode to a specified value via TV Settings on the device.",
+                  "message": "Adjust Volume",
+                  "classes": null,
+                  "originalType": "updateURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Tips For Mirroring With Smart View",
+            "description": "It will mirror screen to smart display",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Here are some tips if you're having trouble mirroring your phone or tablet:",
+                  "If your phone or tablet will not display, it may need permission from the TV.",
+                  "Restart your device and TV, and then try connecting again.",
+                  "Make sure to select Allow when it displays on the TV.",
+                  "You should also try looking for software updates on your devices."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "touchscreen response delay",
+      "queries": [
+        "hey, my touchscreen response delay seems completely messed up on my samsung phone.",
+        "urgent: touchscreen response delay is not working at all, need help asap.",
+        "galaxy touchscren response delay not wrking",
+        "my galaxy flip 7 inner screen stopped working by itself; it shows no image and doesn't respond to touch, while the outer cover screen still works.",
+        "why is my touchscreen response delay failing again? this is so frustrating!",
+        "touchscreen response delay settings troubleshooting",
+        "my galaxy s22 screen inputs are delayed and the touch responsiveness is laggy, causing a noticeable delay when i try to interact with the phone.",
+        "galaxy device report regarding touchscreen response delay malfunction.",
+        "samsng phne touchscreen response delay glich",
+        "samsung galaxy touchscreen response delay issue fix",
+        "having trouble with touchscreen response delay after recent system usage.",
+        "technical inquiry: user device experiencing touchscreen response delay anomaly."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Touchscreen issues Troubleshooting",
+        "title": "Touchscreen issues",
+        "actions": [
+          {
+            "actionName": "Troubleshooting Touchscreen Issues",
+            "description": "It will help you configure troubleshooting touchscreen",
+            "stepGroups": [
+              {
+                "steps": [
+                  "I understand you're experiencing some issues with your device's touchscreen.",
+                  "Let's go through some steps to help resolve this."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/ec3fe77493",
+                  "description": "Diagnoses device overheating issues and recommends actions to cool down and protect your device.",
+                  "message": "Diagnose Overheating",
+                  "classes": null,
+                  "originalType": null
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Factors Affecting Touchscreen Performance",
+            "description": "It will help you configure factors affecting",
+            "stepGroups": [
+              {
+                "steps": [
+                  "There are a few things that can affect how well your touchscreen works.",
+                  "Please consider the following:",
+                  "Screen Protectors and Accessories: If you have a third-party screen protector or accessory attached, it might interfere with the touchscreen.",
+                  "This is especially true if there's dust or air trapped under the protector, if you have more than one protective film on the screen, or if the film is peeling at the edges.",
+                  "If your screen protector is peeling or has debris under it, please remove it."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Charger Issues",
+            "description": "It will restore optimal battery charge level",
+            "stepGroups": [
+              {
+                "steps": [
+                  "A damaged charger might not be supplying enough power to your device, which could lead to touchscreen malfunctions.",
+                  "If you suspect this is the case, please try using a different, undamaged charger.",
+                  "It's also a good practice to avoid using the touchscreen while your device is charging."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Full Screen Gesture Function",
+            "description": "It will help you configure full screen",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If you're using the full screen gesture function, your touch inputs might be misinterpreted as gestures, preventing them from being recognized.",
+                  "To prevent this, you can disable the full screen gesture function.",
+                  "Go to Settings, tap Display, and then tap Navigation bar.",
+                  "Select Buttons to turn off full screen gestures."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/ed7a58551e",
+                  "key": "Corner actions",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/5c7980ef55",
+                  "description": "Disables corner actions via device Settings on the device.",
+                  "message": "Disable Gesture Controls",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Touch Sensitivity Setting",
+            "description": "It will help you configure touch sensitivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If the Touch sensitivity setting is enabled when you are not using a protective film, the touchscreen might become overly sensitive and malfunction.",
+                  "To turn off this feature, navigate to Settings, tap Display, and then tap the switch next to Touch sensitivity to disable it."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6451858b28",
+                  "key": "Touch sensitivity",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/1b0d34e9b4",
+                  "description": "Disables touch sensitivity via device Settings on the device.",
+                  "message": "Disable Touch sensitivity",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Factory Data Reset",
+            "description": "It will help you configure factory data",
+            "stepGroups": [
+              {
+                "steps": [
+                  "A factory data reset should only be considered as a last resort, after trying all the previous steps.",
+                  "Please be aware that this action will erase all data and content from your device.",
+                  "Before proceeding, it is crucial to back up your personal data to avoid losing it.",
+                  "To perform a factory data reset:",
+                  "Navigate to and open Settings."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8e8eb09d57",
+                  "key": "Auto factory reset",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/635e6add5d",
+                  "description": "Opens the auto factory reset settings page in device Settings on the device.",
+                  "message": "View Reset Options",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Further Assistance",
+            "description": "It will help you configure further assistance",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If the issue persists after trying all these steps, please reach out to Samsung Support for further assistance."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/cbd34ba0bf",
+                  "key": "Accessibility",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/345d017a3f",
+                  "description": "Updates the accessibility volume to a specified value via device Settings on the device.",
+                  "message": "Increase Accessibility Volume",
+                  "classes": null,
+                  "originalType": "updateURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Restarting Your Device",
+            "description": "It will restart your mobile device safely",
+            "stepGroups": [
+              {
+                "steps": [
+                  "A simple restart can often resolve minor issues.",
+                  "The process for restarting varies by model:",
+                  "For devices with a Power button: Press and hold the Power button, then tap Restart.",
+                  "Tap Restart again to confirm.",
+                  "For devices with a Side button: Swipe down from the top of the screen with two fingers to open the Quick settings panel."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/a6daa24c09",
+                  "key": "Restart the device when needed",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/52ea07a0db",
+                  "description": "Enables restarting the device when needed via device Settings on the device.",
+                  "message": "Enable Auto Restart",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "critical"
+          },
+          {
+            "actionName": "Software Updates",
+            "description": "It will help you configure software updates",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Keeping your device's software up to date is important for smooth performance.",
+                  "You should also check for updates for any third-party apps you use, as these can sometimes affect gesture customization."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/511a318020",
+                  "key": "Galaxy system app update",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/8d4f1edee1",
+                  "description": "Opens the Galaxy system app updates settings page in device Settings on the device.",
+                  "message": "View Update Settings",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "critical"
+          },
+          {
+            "actionName": "Safe Mode",
+            "description": "It will isolate third party application conflicts",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Safe mode can help us identify if a recently installed third-party app is causing the problem.",
+                  "To enter Safe mode:",
+                  "Press and hold the Power button (or Side button) and the Volume down button at the same time.",
+                  "Alternatively, swipe down from the top of the screen with two fingers and tap the Power icon.",
+                  "Touch and hold Power off, then tap Safe mode."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/017e21ffd9",
+                  "key": "Side button",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fbc14cbc74",
+                  "description": "Opens the Side button settings settings page in device Settings on the device.",
+                  "message": "View Side button",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "camera video flicker",
+      "queries": [
+        "camera keeps crashing",
+        "screen flickers when using the camera on a galaxy phone"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Camera video flicker Troubleshooting",
+        "title": "Camera video flicker",
+        "actions": [
+          {
+            "actionName": "Clear Camera App Cache",
+            "description": "It will clear cached application temporary data",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Navigate to Settings > Apps > Camera > Storage, and tap Clear Cache."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/a3cbff04c8",
+                  "key": "Camera access",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/f9e8fa8069",
+                  "description": "Opens the camera access settings page in device Settings on the device.",
+                  "message": "View Camera access",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Reset Camera Settings",
+            "description": "It will help you configure reset camera",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Open the Camera app, tap the Settings gear icon, scroll down, and tap Reset settings."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/a3cbff04c8",
+                  "key": "Camera access",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/f9e8fa8069",
+                  "description": "Opens the camera access settings page in device Settings on the device.",
+                  "message": "View Camera access",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Test In Safe Mode",
+            "description": "It will isolate third party application conflicts",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Boot into Safe Mode to confirm third-party camera filters are not causing shutter freezes."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/5bcc7292d6",
+                  "key": "Video effects",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/df337e1790",
+                  "description": "Opens the video call effects settings page in device Settings on the device.",
+                  "message": "View Video effects",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "assistant menu shortcut",
+      "queries": [
+        "galaxy assistant menu shortcut not wrking",
+        "galaxy device report regarding assistant menu shortcut malfunction.",
+        "why is my assistant menu shortcut failing again? this is so frustrating!",
+        "my galaxy s25 has a floating circle that constantly hovers on my screen and gives me quick shortcuts to recent apps, home, back, screen off, volume control, and more; i want to remove it.",
+        "technical inquiry: user device experiencing assistant menu shortcut anomaly.",
+        "urgent: assistant menu shortcut is not working at all, need help asap.",
+        "samsung galaxy assistant menu shortcut issue fix",
+        "having trouble with assistant menu shortcut after recent system usage.",
+        "samsng phne assistant menu shortcut glich",
+        "hey, my assistant menu shortcut seems completely messed up on my samsung phone.",
+        "assistant menu shortcut settings troubleshooting"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Use multi window Troubleshooting",
+        "title": "Use multi window",
+        "actions": [
+          {
+            "actionName": "Customize The Edge Panel",
+            "description": "It will help you configure customize the",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Your device's Edge panel lets you quickly access frequently used apps and content.",
+                  "You can customize the panel, download new panels, and remove apps from the panel if needed.",
+                  "To find the panel, swipe left on the gray Edge panel handle, which is located on the right side of your screen.",
+                  "You can use the Settings, All apps, and Edit icons at the bottom of the panel to adjust your desired options."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/63c3b0e2f0",
+                  "key": "Show as edge icon",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/a2fcc116bd",
+                  "description": "Enables edge icon display via device Settings on the device.",
+                  "message": "Enable Show as edge icon",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Use Multi Window",
+            "description": "It will enable multitasking split screen view",
+            "stepGroups": [
+              {
+                "steps": [
+                  "You can use Multi window on your Galaxy foldable and non-foldable devices.",
+                  "If you have a few favorite apps, you can even create app pairs!",
+                  "From the screen's right side, swipe left to open the Edge panel.",
+                  "Tap the All apps icon (the grid).",
+                  "From here, you'll be able to see all of your current apps.To open an app in split screen view on Z Fold devices, drag and drop it to the left, right, top, or bottom of the screen and then do the same for additional apps if desired."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/e2aefc4571",
+                  "key": "Show multi window menu with 1 window",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/bd9ead5bed",
+                  "description": "Enables multi window menu via device Settings on the device.",
+                  "message": "Enable Show multi window menu with 1 window",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Exit Multi Window",
+            "description": "It will enable multitasking split screen view",
+            "stepGroups": [
+              {
+                "steps": [
+                  "When you want to give Multi window a break and just use one app, you can close the split screen view.",
+                  "To do this, tap the Home icon.",
+                  "This will close them completely on the Home screen but leave them together in Recents."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/e2aefc4571",
+                  "key": "Show multi window menu with 1 window",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/bd9ead5bed",
+                  "description": "Enables multi window menu via device Settings on the device.",
+                  "message": "Enable Show multi window menu with 1 window",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Use Pop-up View",
+            "description": "It will help you configure use pop-up",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Multi window is really handy, but you can also use the pop-up view feature.",
+                  "This feature lets you make an app's window smaller, and you can even move it around.",
+                  "Pop-up view also has other settings to make it easier to use.",
+                  "Here is what the different controls do from left to right:",
+                  "Pin options menu to top: Pin the window's options to the top of the window."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/41d70c5e6f",
+                  "key": "Multi window for all apps",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/4d10b03627",
+                  "description": "Disables multi window for all apps via device Settings on the device.",
+                  "message": "Disable Multi window for all apps",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Create An App Pair",
+            "description": "It will help you configure create an",
+            "stepGroups": [
+              {
+                "steps": [
+                  "The Edge panel is only available on certain device models.",
+                  "Instead of separately opening apps you always use together, just create an App pair.",
+                  "That way, those two apps will open simultaneously in split screen view.",
+                  "If you're using the Z Fold2, Z Fold3, Z Fold4, Z Fold5, Z Fold6, Z Fold7, Z Fold8, Z Fold8 Ultra, or Z TriFold, you can create an App pair with three apps.",
+                  "Swipe left to open the Edge panel."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/fa0d27aee6",
+                  "key": "Allow apps to be pinned",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c16d019ad4",
+                  "description": "Enables app pinning via device Settings on the device.",
+                  "message": "Enable Allow apps to be pinned",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Useful App Pairing Ideas",
+            "description": "It will help you configure useful app",
+            "stepGroups": [
+              {
+                "steps": [
+                  "The Edge panel is only available on certain device models.",
+                  "Can't think of any useful app pairing combinations?",
+                  "Here are some combinations to get those creative juices flowing.",
+                  "Internet + Samsung Notes: Browse the internet and take notes at the same time.",
+                  "Play Music + Maps: Play your jam while going on an adventure."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/fa0d27aee6",
+                  "key": "Allow apps to be pinned",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c16d019ad4",
+                  "description": "Enables app pinning via device Settings on the device.",
+                  "message": "Enable Allow apps to be pinned",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Remove Shortcuts From Apps Edge",
+            "description": "It will help you configure remove shortcuts",
+            "stepGroups": [
+              {
+                "steps": [
+                  "The Edge panel is only available on certain device models.",
+                  "Maybe doing homework while playing a game isn't the best idea.",
+                  "Remove that shortcut to make room for a new one.",
+                  "From any screen, swipe left on the Edge panel, and then tap the Edit icon (the pencil).",
+                  "Tap the minus icon next to the shortcuts you want to remove."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/ec8f3bb4c8",
+                  "key": "Edge panels",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/a739f217be",
+                  "description": "Disables Edge panels via device Settings on the device.",
+                  "message": "Disable Edge panels",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Swipe Gestures For Multi Window",
+            "description": "It will enable multitasking split screen view",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Galaxy devices running One UI 6 or later have introduced a new feature that simplifies multitasking by allowing you to quickly move an open app into split screen or pop-up views using intuitive swipes.",
+                  "This streamlines your daily multitasking, making it easier to manage multiple apps simultaneously.",
+                  "Navigate to and open Settings, and then tap Advanced features.",
+                  "Tap Multi window, and then tap the switches next to Swipe for split screen or Swipe for pop-up view.Once you've turned on these features, a two finger swipe from the bottom of the screen will move the current app into split screen mode.",
+                  "You can also use one finger to swipe in from either top corner to put the current app into a pop-up."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/41d70c5e6f",
+                  "key": "Multi window for all apps",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/4d10b03627",
+                  "description": "Disables multi window for all apps via device Settings on the device.",
+                  "message": "Disable Multi window for all apps",
+                  "classes": null,
+                  "originalType": "offURL"
+                }
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "screen physical crack",
+      "queries": [
+        "why is my screen physical crack failing again? this is so frustrating!",
+        "urgent: screen physical crack is not working at all, need help asap.",
+        "galaxy scren physical crack not wrking",
+        "my galaxy phone's screen is completely cracked, it's a total crack and i can't use the device.",
+        "samsung galaxy screen physical crack issue fix",
+        "screen physical crack settings troubleshooting",
+        "having trouble with screen physical crack after recent system usage.",
+        "samsng phne screen physical crack glich",
+        "1. \"my galaxy z flip 7 screen is cracked again right where it folds.\"\n2. \"the touch doesn't work on certain parts of the screen.\"\n3. \"i can hardly see anything on the display.\"",
+        "technical inquiry: user device experiencing screen physical crack anomaly.",
+        "hey, my screen physical crack seems completely messed up on my samsung phone.",
+        "galaxy device report regarding screen physical crack malfunction."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Cracked bleeding screen Troubleshooting",
+        "title": "Cracked bleeding screen",
+        "actions": [
+          {
+            "actionName": "Understanding Screen Damage",
+            "description": "It will inspect device hardware for damage",
+            "stepGroups": [
+              {
+                "steps": [
+                  "There are a few common ways screens can be damaged:"
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Cracked Screen",
+            "description": "It will help you configure cracked screen",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Obvious cracks on the screen usually result from an impact to the front of the device."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8846b953f8",
+                  "key": "Screen saver",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/0627c4c3e3",
+                  "description": "Updates the screen saver to a specified value via device Settings on the device.",
+                  "message": "Adjust Screen saver",
+                  "classes": null,
+                  "originalType": "updateURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Ink Blots",
+            "description": "It will help you configure ink blots",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If your device shows a round spot of dead pixels, it might have experienced gradual pressure that kept the front glass intact but damaged the screen underneath."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Bleeding Pixels",
+            "description": "It will help you configure bleeding pixels",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Bleeding pixels are typically caused by an impact to the edge of the device.",
+                  "This can result in rows or columns of pixels displaying black or oddly colored lines."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6415751bef",
+                  "key": "Allow this phone to be found",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/fb595919d1",
+                  "description": "Opens the allow phone to be found remotely settings page in device Settings on the device.",
+                  "message": "View Allow this phone to be found",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Service Options For Cracked Screens",
+            "description": "It will connect with authorized service technicians",
+            "stepGroups": [
+              {
+                "steps": [
+                  "We understand that dealing with a cracked screen can be frustrating.",
+                  "Here are the service options available to help you get your Samsung device repaired:"
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          },
+          {
+            "actionName": "Samsung Repair Services",
+            "description": "It will connect with authorized service technicians",
+            "stepGroups": [
+              {
+                "steps": [
+                  "You can schedule a walk-in or mail-in repair to fix your cracked screen using Samsung genuine parts.",
+                  "Visit Samsung Repair Services for more information."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          },
+          {
+            "actionName": "Samsung Authorized Service Centers",
+            "description": "It will connect with authorized service technicians",
+            "stepGroups": [
+              {
+                "steps": [
+                  "For fast, quality repairs you can trust and rely on, visit a local Samsung Authorized Service Center.",
+                  "You can learn more about the cost of the repair."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          },
+          {
+            "actionName": "Samsung Premium Care",
+            "description": "It will help you configure samsung premium",
+            "stepGroups": [
+              {
+                "steps": [
+                  "If you have a Samsung Premium Care service contract, it covers accidental damage from handling with a low deductible.",
+                  "This service extends protection after your standard warranty runs out, providing coverage for repairs or replacements.",
+                  "Terms and Conditions apply.",
+                  "Learn more at Samsung Premium Care."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "battery fast drain",
+      "queries": [
+        "having trouble with battery fast drain after recent system usage.",
+        "my galaxy s26 ultra only shows a blue (or black) screen with tiny text when i try to turn it on, and it won't start up. i tried holding the power button but it doesn't help.",
+        "galaxy batry fast drain not wrking",
+        "technical inquiry: user device experiencing battery fast drain anomaly.",
+        "galaxy device report regarding battery fast drain malfunction.",
+        "samsng phne battery fast drain glich",
+        "why is my battery fast drain failing again? this is so frustrating!",
+        "urgent: battery fast drain is not working at all, need help asap.",
+        "my phone battery drains in 3 hours after updating software",
+        "samsung galaxy battery fast drain issue fix",
+        "battery fast drain settings troubleshooting",
+        "hey, my battery fast drain seems completely messed up on my samsung phone."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Battery fast drain Troubleshooting",
+        "title": "Battery fast drain",
+        "actions": [
+          {
+            "actionName": "Smartphone Battery Fast Drain Optimization: #",
+            "description": "It will restore optimal battery charge level",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Smartphone Battery fast drain optimization: # Battery Power Management\\n## Step 1: Enable Power Saving Mode\\nOpen Settings, navigate to Battery and device care, tap Battery, and toggle on Power saving mode.\\n## Step 2: Put Unused Apps into Deep Sleep\\nNavigate to Settings, tap Battery, tap Background usage limits, and add high-drain background apps into Deep sleeping apps."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/4b4df06e4c",
+                  "description": "Diagnoses excessive battery drain to identify power-hungry apps and suggest fixes for longer battery life.",
+                  "message": "Diagnose Battery Drain",
+                  "classes": null,
+                  "originalType": null
+                }
+              }
+            ],
+            "category": "auto"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "wifi network connectivity",
+      "queries": [
+        "my galaxy s22 wi-fi keeps disconnecting and cannot load web pages",
+        "connection problem"
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Wi-fi connectivity issue Troubleshooting",
+        "title": "Wi-fi connectivity issue",
+        "actions": [
+          {
+            "actionName": "Check Wi-fi Status",
+            "description": "It will verify active internet network connectivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Swipe down from the top of your screen to open Quick settings.",
+                  "Verify Wi-Fi is enabled and connected to your network."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/26333a38b6",
+                  "key": "Wi-Fi network notifications",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c9ca763e0c",
+                  "description": "Opens the Wi-Fi network notifications settings page in device Settings on the device.",
+                  "message": "View Notification Settings",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Verify Internet Connection",
+            "description": "It will verify active internet network connectivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Open the browser and load a test webpage to confirm active data routing."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/21ebbddeb8",
+                  "key": "Switch to mobile data",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/a9b84a4800",
+                  "description": "Opens the switch to mobile data on poor Wi-Fi settings page in device Settings on the device.",
+                  "message": "View WiFi Settings",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Reset Network Settings",
+            "description": "It will verify active internet network connectivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Navigate to Settings, tap General management, tap Reset, and select Reset network settings."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8e8eb09d57",
+                  "key": "Auto factory reset",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/635e6add5d",
+                  "description": "Opens the auto factory reset settings page in device Settings on the device.",
+                  "message": "View Reset Options",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Enable Wi-fi Adapter",
+            "description": "It will verify active internet network connectivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Navigate to Settings, tap Connections, and toggle the Wi-Fi switch to ON."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "bluetooth connection pairing",
+      "queries": [
+        "having trouble with bluetooth connection pairing after recent system usage.",
+        "samsung galaxy bluetooth connection pairing issue fix",
+        "technical inquiry: user device experiencing bluetooth connection pairing anomaly.",
+        "samsng phne bluetooth connection pairing glich",
+        "galaxy device report regarding bluetooth connection pairing malfunction.",
+        "check error code",
+        "why is my bluetooth connection pairing failing again? this is so frustrating!",
+        "bluetooth connection pairing settings troubleshooting",
+        "galaxy bluetooth connection pairing not wrking",
+        "hey, my bluetooth connection pairing seems completely messed up on my samsung phone.",
+        "my galaxy device encounters sporadic wireless earbud disconnects during calls",
+        "urgent: bluetooth connection pairing is not working at all, need help asap."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Bluetooth pairing issue Troubleshooting",
+        "title": "Bluetooth pairing issue",
+        "actions": [
+          {
+            "actionName": "Check Bluetooth Status",
+            "description": "It will help you configure check bluetooth",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Open Settings, tap Connections, and verify Bluetooth is toggled ON."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/6c79c8628b",
+                  "key": "Bluetooth scanning",
+                  "resultType": "boolean",
+                  "condition": "equal",
+                  "value": "True"
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/c76675fafa",
+                  "description": "Enables Bluetooth scanning via device Settings on the device.",
+                  "message": "Enable Bluetooth",
+                  "classes": null,
+                  "originalType": "onURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Unpair And Re-pair Device",
+            "description": "It will help you configure unpair and",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Select your audio accessory or wearable from Paired devices, tap Unpair, and initiate new pairing."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/f077e63f06",
+                  "key": "Bluetooth tethering",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/540d645341",
+                  "description": "Opens the Bluetooth tethering settings page in device Settings on the device.",
+                  "message": "View Bluetooth tethering",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Reset Network Settings",
+            "description": "It will verify active internet network connectivity",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Navigate to Settings > General management > Reset > Reset network settings."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8e8eb09d57",
+                  "key": "Auto factory reset",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/635e6add5d",
+                  "description": "Opens the auto factory reset settings page in device Settings on the device.",
+                  "message": "View Reset Options",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          },
+          {
+            "actionName": "Restart Phone And Accessory",
+            "description": "It will restart your mobile device safely",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Restart both your Galaxy phone and the Bluetooth accessory to clear transient stack deadlocks."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/8ae2366340",
+                  "key": "Inactivity restart",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/e5fd624031",
+                  "description": "Opens the inactivity restart settings page in device Settings on the device.",
+                  "message": "View Inactivity restart",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "critical"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "samsung dex desktop mode does",
+      "queries": [
+        "samsung galaxy samsung dex desktop mode does issue fix",
+        "samsung dex desktop mode does settings troubleshooting",
+        "galaxy device report regarding samsung dex desktop mode does malfunction.",
+        "having trouble with samsung dex desktop mode does after recent system usage.",
+        "why is my samsung dex desktop mode does failing again? this is so frustrating!",
+        "samsung dex desktop mode does not start when plugged into external monitor",
+        "technical inquiry: user device experiencing samsung dex desktop mode does anomaly.",
+        "galaxy samsung dex desktop mode does not wrking",
+        "urgent: samsung dex desktop mode does is not working at all, need help asap.",
+        "samsng phne samsung dex desktop mode does glich",
+        "hey, my samsung dex desktop mode does seems completely messed up on my samsung phone."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Dex connection and Troubleshooting",
+        "title": "Dex connection and",
+        "actions": [
+          {
+            "actionName": "Smartphone,tablet Samsung Dex Connection: # D",
+            "description": "It will help you configure smartphone,tablet samsung",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Smartphone,Tablet Samsung DeX connection: # DeX Display Output\\n## Step 1: Enable Auto Start for Samsung DeX\\nOpen Settings, tap Connected devices, tap Samsung DeX, and toggle on Auto start when HDMI is connected.\\n## Step 2: Inspect HDMI Cable and USB Hub\\nDisconnect the USB-C adapter from your device and external monitor, inspect ports for physical damage, and securely reconnect."
+                ],
+                "validationDeeplink": null,
+                "actionableDeeplink": null
+              }
+            ],
+            "category": "manual"
+          }
+        ],
+        "score": 0.94
+      }
+    },
+    {
+      "canonical_key": "biometric fingerprint scanner fails register",
+      "queries": [
+        "galaxy device report regarding biometric fingerprint scanner fails register malfunction.",
+        "having trouble with biometric fingerprint scanner fails register after recent system usage.",
+        "biometric fingerprint scanner fails to register dry thumb on lock screen",
+        "why is my biometric fingerprint scanner fails register failing again? this is so frustrating!",
+        "biometric fingerprint scanner fails register settings troubleshooting",
+        "hey, my biometric fingerprint scanner fails register seems completely messed up on my samsung phone.",
+        "galaxy biometric fingerprint scanner fails register not wrking",
+        "urgent: biometric fingerprint scanner fails register is not working at all, need help asap.",
+        "samsung galaxy biometric fingerprint scanner fails register issue fix",
+        "samsng phne biometric fingerprint scanner fails register glich",
+        "technical inquiry: user device experiencing biometric fingerprint scanner fails register anomaly."
+      ],
+      "goal": {
+        "goal": "Follow these steps to perform this Fingerprint scanner registration Troubleshooting",
+        "title": "Fingerprint scanner registration",
+        "actions": [
+          {
+            "actionName": "Smartphone Fingerprint Scanner Registration:",
+            "description": "It will help you configure smartphone fingerprint",
+            "stepGroups": [
+              {
+                "steps": [
+                  "Smartphone Fingerprint scanner registration: # Biometric Lock Screen Settings\\n## Step 1: Re-register Fingerprint Profile\\nGo to Settings, tap Security and privacy, tap Biometrics, tap Fingerprints, and add a new fingerprint scan.\\n## Step 2: Toggle On Screen Touch Sensitivity\\nNavigate to Settings, tap Display, and turn on Touch sensitivity to enhance recognition through protective film."
+                ],
+                "validationDeeplink": {
+                  "deeplink": "bixby://masked/val/2ae16321c5",
+                  "key": "Fingerprint unlock",
+                  "resultType": null,
+                  "condition": null,
+                  "value": null
+                },
+                "actionableDeeplink": {
+                  "deeplink": "bixby://masked/act/49f61f06b4",
+                  "description": "Opens the fingerprint unlock settings page in device Settings on the device.",
+                  "message": "View Fingerprint unlock",
+                  "classes": null,
+                  "originalType": "onClickURL"
+                }
+              }
+            ],
+            "category": "auto"
+          }
+        ],
+        "score": 0.94
+      }
+    }
+  ]
+}
